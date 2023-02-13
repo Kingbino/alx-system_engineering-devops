@@ -1,0 +1,2 @@
+#!/bin/baash
+tail -1 iacta >> iacta
